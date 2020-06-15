@@ -234,6 +234,7 @@ class DatabaseSeeder extends Seeder
 
         //use following command for products in separate seeding products are not seeding here
        // php artisan db:seed --class=ProductSeeder
+       // I am changing this file -- bikash
 
         factory(User::class,500)->create();
     }
