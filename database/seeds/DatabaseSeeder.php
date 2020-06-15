@@ -237,6 +237,7 @@ class DatabaseSeeder extends Seeder
        // I am changing this file -- bikash
         // i am sukanta hui
         //hello karan here
+        // my new changes
 
         factory(User::class,500)->create();
     }
