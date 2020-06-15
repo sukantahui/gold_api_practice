@@ -236,6 +236,7 @@ class DatabaseSeeder extends Seeder
        // php artisan db:seed --class=ProductSeeder
        // I am changing this file -- bikash
         // i am sukanta hui
+        //hello karan here
 
         factory(User::class,500)->create();
     }
